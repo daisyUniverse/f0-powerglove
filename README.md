@@ -12,6 +12,8 @@ Currently all I can offer in way of instructions on how to install this is to ad
 
 ---
 
+It is a known bug that having this code running makes the existing physical "Ok" and the "Down" not work - I do not currently know why, but the GPIO OK and Down buttons still work
+
 (side note: There are some modifications to the settings, but these are not finished or functional yet, it just adds a little UI line for now and steals its data from another system setting... I will in time make it actually functional, but until then, feel free to not build that.)
 
 
