@@ -1,0 +1,8 @@
+App(
+    appid="powerglove",
+    name="Power Glove",
+    apptype=FlipperAppType.SERVICE,
+    entry_point="powerglove_srv",
+    stack_size=4096,
+    icon="",
+)
